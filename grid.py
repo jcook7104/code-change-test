@@ -7,3 +7,4 @@ def grid():
 
 #i have used a for loop to ma\ke the grid bigger#
 #Code by James Cook#
+grid()
